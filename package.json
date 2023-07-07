@@ -1,6 +1,6 @@
 {
-  "name": "xavier",
-  "version": "1.0.0",
+  "name": "accessibility-auto",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
     "@wdio/cli": "^8.11.2",
     "@wdio/selenium-standalone-service": "^8.11.0",
     "@wdio/sync": "^7.27.0",
+    "chai": "^4.3.7",
     "dotenv": "^16.3.1",
     "eslint": "^8.43.0",
     "lighthouse": "^10.3.0",
